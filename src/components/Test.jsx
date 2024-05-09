@@ -1,0 +1,1 @@
+export default ()=><div>test component</div>
